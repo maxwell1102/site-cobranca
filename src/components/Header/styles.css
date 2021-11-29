@@ -1,0 +1,85 @@
+/*--------- Estilos do layout do Header----------- */
+header{
+    width: 90vw;
+}
+.sign-linha{  
+    margin-left: 3rem;
+    padding-top: 5rem;
+    width: 69vw;
+    border-bottom: 1px solid #ACD9C5 ;   
+    padding-bottom: 1rem;
+}
+.sign-header{
+   display: flex;
+    align-items: center; 
+    justify-content: space-between ;
+   
+}
+.sign-inicial-name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #DEDEE9;
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;    
+}
+.sign-name{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+/*----------- Fontes do Header-------------- */
+.font-montserrat{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+}
+.font-nunit{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;  
+}
+/*---------Tamanho das fontes do Header----------- */
+.text-size-26{
+    font-size: 26px;
+}
+.text-size-22{
+    font-size: 22px;
+}
+.text-size-18{
+    font-size: 18px;
+}
+/*------------Cores do Header----------------*/
+.color-343447{
+    color: #343447;
+}
+.color-0E8750{
+    color: #0E8750;
+}
+.container-poup-up{
+    position: absolute;
+    top: 9rem;
+    right: 35rem;
+    gap: 2rem;
+    padding-left: 2rem;
+    border-radius: 8px;
+    align-items: center;    
+    width: 9.9rem;
+    height: 5.5rem;
+    background-color: #FFFFFF;
+}
+.font-poup-up{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 8px;
+    line-height: 11px;
+    color: #747488;
+}
+.icon-logout{
+    height: 2.2rem;
+    width: 2.0rem;
+}
+
+

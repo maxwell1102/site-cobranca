@@ -1,0 +1,24 @@
+.container-cobrancas{
+    background-color: #F8F8F9;
+}
+.sign-cobrancas{
+    display: flex;    
+}
+.sign-cobrancas-card{
+    display: flex;
+    flex-direction: column;
+}
+.sign-cobrancas-h1{
+    color: red;
+}
+.sign-cobrancas-img{
+    width: 15rem;
+    height: 15rem;
+}
+.alinhamento-img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10rem;
+    
+}

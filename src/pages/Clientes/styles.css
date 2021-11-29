@@ -1,0 +1,10 @@
+.container-clientes{
+    background-color: #F8F8F9;
+}
+.sign-clientes{
+    display: flex;    
+}
+.sign-clientes-card{
+    display: flex;
+    flex-direction: column;
+}

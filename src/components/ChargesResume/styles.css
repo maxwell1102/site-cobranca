@@ -1,0 +1,27 @@
+/* ---------Layout do Card Resumo-------- */
+.card-resumo-alinhamento{    
+    margin: 2rem 5rem 2rem 4rem;
+    gap: 3.2rem;   
+}
+.card-resumo{  
+    align-items: center;
+    padding-left: 2rem;
+    gap: 4rem;    
+    width: 21vw;
+    height: 11rem;
+    border-radius: 30px;
+}
+/* ------cores do cards resumo------- */
+.color-FCF6DC{
+    background: var(--amarelo-light);    
+}
+.color-FFEFEF{
+    background: var(--vinho-light);    
+}
+.color-EEF6F6{
+    background: var(--petroleo-light);    
+}
+.color-h3-p{
+    color: var(--cinza-2);
+}
+
